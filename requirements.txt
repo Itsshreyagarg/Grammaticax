@@ -1,0 +1,11 @@
+spacy
+language-tool-python
+textstat
+scikit-learn
+transformers
+torch
+sentence-transformers
+fastapi
+uvicorn
+mlflow
+loguru
